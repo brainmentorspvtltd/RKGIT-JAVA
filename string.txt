@@ -1,0 +1,7 @@
+String 
+A) String Literal - How many objects get created
+String a = “Amit”; // 1 or 0 Object create
+B) new String
+String b = new String(“Ram”); // 2 or 1 Object
+String c = new String(“Amit”);
+String POOL

@@ -1,0 +1,17 @@
+Assignment-1 
+
+Print Employee Salary Slip 
+
+Id 
+Name (TitleCase)
+Basic Salary
+HRA (50% of the basic salary)
+DA (10% of the basic salary)
+TA (40% of the basic salary)
+MA (30% of the basic salary)
+PF (5% of the basic salary)
+GS = BasicSalary + HRA + DA + TA + MA 
+TAX = 10% on GS
+NS = GS - PF - TAX
+
+Note : Follow SRP, DRY, Noun , Verb Rules

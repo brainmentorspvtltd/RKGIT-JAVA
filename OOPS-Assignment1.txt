@@ -14,4 +14,4 @@ GS = BasicSalary + HRA + DA + TA + MA
 TAX = 10% on GS
 NS = GS - PF - TAX
 
-Note : Follow SRP, DRY, Noun , Verb Rules
+Note : Follow SRP, DRY, Noun , Verb Rules, Print in Currency Format. Print Date in Country Format.

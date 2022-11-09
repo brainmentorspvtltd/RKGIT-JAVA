@@ -1,0 +1,15 @@
+Print Student MarkSheet
+User can Input Rollno , Name (Display in TitleCase), 3 Subject Marks (Array)
+Compute total marks, Compute Percentage
+
+Compute Grade
+>=90 A Grade
+<90 to >=70 B Grade
+<70 to >=60 C Grade
+<60 to >=50 D Grade
+<50 F Grade
+
+
+Print in MarkSheet Style.
+
+Note : Follow SRP , DRY , Noun, Verb , Pascal Case, CamelCase Standards
